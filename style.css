@@ -1,0 +1,16 @@
+body{
+   background-position: center ;
+   background-size: cover;
+}
+canvas{
+   background-color: white;
+   border-radius: 40px;
+}
+#savepic{
+   color: aqua;
+   background-color: black;
+}
+h1{
+   background-color: grey;
+   color: whitesmoke;
+}
